@@ -1,0 +1,48 @@
+
+/* main wrapper */
+.main-wrapper
+{
+    display: flex;
+}
+
+/* side bar */
+aside
+{
+    /* background: #04c1fa !important; */
+    width: 15%;
+    height: 100vh;
+}
+
+aside ul
+{
+    list-style-type: none;
+    margin-top: -20px;
+}
+
+aside ul a
+{
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+    /* background-color: aquamarine; */
+}
+
+aside ul li
+{
+    
+    margin-top: 20px;
+}
+
+aside .nav-small-cap
+{
+    background-color: #04c1fa !important;
+    padding: 10px;
+    color: #FFF;
+    font-weight: 700;
+    margin-left: -40px;
+}
+
+.page-wrapper
+{
+    width: 85%;
+}
